@@ -1,8 +1,3 @@
 - 👋 Hi, I’m @pavankumar-07
-- 👀 I’m interested in Data science,machine learning
-- 🌱 I’m currently learning  Data science
-- 💞️ I’m looking to collaborate.
-<!---
-pavankumar-07/pavankumar-07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I love  Data Science, Machine Learning
+- 🌱 I’m currently learning  Data Science
