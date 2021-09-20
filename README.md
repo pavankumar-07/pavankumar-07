@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @pavankumar-07
-- 👀 I love  Data Science, Machine Learning
-- 🌱 I’m currently learning  Data Science
+- 💖 I love  Data Science, Machine Learning
+- 👨🏻‍🎓 I’m currently learning  Data Science
 - 📖 Interested in Learning New Things🗞
